@@ -1,0 +1,99 @@
+
+.jumbotron {
+    background-color: turquoise;
+    height: 350px;
+    padding: 0px;
+
+    
+}
+
+.navbar {
+    background-color: #d6f8f8;
+    padding: 20px;
+    margin-top: 0;
+
+}
+
+#target-headshot {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #0ce3ec;
+    padding: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+    /* size: 50%; */
+}
+
+.experience {
+    
+}
+
+
+.social-icon {
+    color: turquoise;
+}
+
+.social-icon:hover {
+    color: aquamarine;
+}
+
+.bigger {
+    width: 50px;
+    height: auto;
+    font-size: 75px;
+}
+
+.joy {
+    background-color: #0ce3ec;
+    display: flex;
+    padding: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    justify-content: space-around;
+
+ 
+}
+
+#carousel-text {
+    flex-wrap: wrap;
+    justify-items: right;
+}
+
+.ayana-pics  {
+    width: 350px;
+    height: auto;
+
+}
+
+
+.carousel {
+    justify-content: center;
+}
+
+
+
+#headshot {
+    /* display: flex; */
+    width: auto;
+    height: 500px;
+}
+
+.navbar-sticky-footer {
+    display: flex;
+    background-color: turquoise;
+    padding: 70px;
+    margin-top: auto;
+
+}
+
+.btn {
+    background-color: #9b9d6e;
+}
+
+.github {
+    background-color: #d6f8f8;
+    padding:20px;
+
+}
